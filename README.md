@@ -54,25 +54,27 @@ para atuarem como Analista de Dados Jr.!
 $ git clone <[git@github.com]mailto:git@github.com):gustavovarella/Projeto_M5.git>
 # Acesse a pasta do projeto.
 # Certifique-se que os arquivos estejam na mesma pasta.
-
-
-[!img](https://i.imgur.com/4etWprk.png)
 ```
-###**Projeto**
-````bash 
+
+<img src="https://i.imgur.com/4etWprk.png">
+
+
+### **Projeto**
 Nossa empresa é a Sputnik Labs, formada pelos seguintes integrantes: Carol Candeias, Isabelle Cavalcante, Ally Santana, Gustavo Varella.
 Sputnik veio como inspiração de um satélite Russo, sendo o primeiro satélite a ser enviado para o espaço com intuito de transmitir ondas de rádio ou seja o primeiro objeto enviado para o espaço pela humanidade, além de sua forma diferenciada, sendo ela redonda com antenas, e tal como o satélite, nossa empresa passou por várias etapas e erros antes de nos reconhecer como grupo e empresa, cada membro dela foi complementar ao outro, pois apesar de não ter dos os requisitos fomos complementares encontrando uma conexão perfeita para a fundação da Sputnik Labs
 
-###**Storytelling**
-```bash
+### **Storytelling**
 Como toda historia de superação, começamos com medo, pois a comparação mediante a nossos concorrentes foi grande, a instabilidade emocional sendo ela através do esgotamento emocional, autocontrole e autoconhecimento, foram muitos momentos de dúvida com questionamento: "isso não vai dar certo" ou " nós nascemos para ser coadiovantes e não os protagosnistas" e nossa superação veio, enfrentando o desafio e conseguindo supera-lo, entendendo que não precisamos ser igual aos nossos concorrentes mas ser tão capaz quanto; A  motivação é importante para o desenvolvimento pessoal de todos os profissionais, estando intimamente atrelada ao desenvolvimento da organização.
 Podemos definir motivação como uma força ou energia que nos mantém ativos e sempre seguindo em frente. Ela também é responsável por eliminar todas as preocupações e pensamentos que podem deixar nossa mente turva, permitindo que sejamos capazes de raciocinar com clareza e ver o céu claro além da tempestade, onde pretendemos chegar.
 Imagens do nosso site:
-[!img](https://i.imgur.com/sLJYsxl.png)
-[!img](https://i.imgur.com/lsLOU2Y.png)
-[!img](https://i.imgur.com/nHxIwS0.png)
 
-###**Area Tech**
+<img src="https://i.imgur.com/sLJYsxl.png">
+<img src="https://i.imgur.com/lsLOU2Y.png">
+<img src="https://i.imgur.com/nHxIwS0.png">
+
+### <center>  Acesse o [site](https://ally-sr.github.io/sputniklabs/)
+
+### **Area Tech**
 Reunimos  dados sobre os membros da equipe e suas respectivas evoluções, sobre eles fizemos insights conseguindo extrair o máximo possivél de informação relativa ao desenvolvimento da equipe.
 Sendo a primeira etapa a coleta de dados por meio de pesquisas feitas entre membros e dados extraidos de Linkedin, prosseguimos para a organização da base de dados e seus devidos relacionamentos, após isso começamos a  etapa de desenvolvimento de dashboards únicos para cada membro de equipe, relatando todo tipo de desenvolvimento na Resilia (ensino de educação).
 
